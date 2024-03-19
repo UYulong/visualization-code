@@ -6,7 +6,6 @@ const AppBox = styled.div`
   background: url('@/assets/images/grid.png');
 `
 
-
 function App() {
   return (
     <AppBox>
