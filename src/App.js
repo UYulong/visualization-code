@@ -7,7 +7,8 @@ import AppBg from '@/assets/images/grid.png'
 // import Demo from "./CSS3/02-3D动画/02-透视效果";
 // import Demo from "./CSS3/02-3D动画/03-3D空间";
 // import Demo from "./CSS3/03-examples/01-正方体";
-import Demo from "./CSS3/03-examples/02-webpack-logo";
+// import Demo from "./CSS3/03-examples/02-webpack-logo";
+import Demo from "./CSS3/03-examples/03-2.5D动画";
 
 const AppBox = styled.div`
   width: 100%;
