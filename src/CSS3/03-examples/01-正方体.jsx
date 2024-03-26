@@ -16,6 +16,7 @@ const DemoBox = styled.div`
     left: 0;
     width: 100%;
     height: 100%;
+    /* backface-visibility: hidden; */ // 元素背向用户时，是否可见
   }
 
   .top {
