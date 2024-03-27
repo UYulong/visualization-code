@@ -4,7 +4,6 @@ import bgImg from './images/banbj.jpeg'
 import banner from './images/banner.png'
 
 import cssObj from './03-2.5D动画.module.css'
-console.log(cssObj);
 
 const DemoBox = styled.div`
   width: 1920px;
