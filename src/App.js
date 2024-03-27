@@ -8,7 +8,14 @@ import AppBg from '@/assets/images/grid.png'
 // import Demo from "./CSS3/02-3D动画/03-3D空间";
 // import Demo from "./CSS3/03-examples/01-正方体";
 // import Demo from "./CSS3/03-examples/02-webpack-logo";
-import Demo from "./CSS3/03-examples/03-2.5D动画";
+// import Demo from "./CSS3/03-examples/03-2.5D动画";
+
+
+// import Demo from "./Canvas/01-绘制图形/01-绘制矩形";
+// import Demo from "./Canvas/01-绘制图形/02-绘制直线-路径";
+// import Demo from "./Canvas/01-绘制图形/03-绘制三角形-路径";
+// import Demo from "./Canvas/01-绘制图形/04-绘制圆弧和圆-路径";
+import Demo from "./Canvas/01-绘制图形/05-绘制矩形-路径";
 
 const AppBox = styled.div`
   width: 100%;
