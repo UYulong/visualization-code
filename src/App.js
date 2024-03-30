@@ -24,7 +24,12 @@ import AppBg from '@/assets/images/grid.png'
 // import Demo from "./Canvas/02-样式和颜色/04-线段样式";
 
 // import Demo from './Canvas/03-绘制字体和图片/01-绘制字体'
-import Demo from './Canvas/03-绘制字体和图片/02-绘制图片'
+// import Demo from './Canvas/03-绘制字体和图片/02-绘制图片'
+
+// import Demo from './Canvas/04-examples/01-绘制秒针/01-setInterval'
+// import Demo from './Canvas/04-examples/01-绘制秒针/02-requestAnimationFrame'
+// import Demo from './Canvas/04-examples/02-太阳系动画/01-普通绘制'
+import Demo from './Canvas/04-examples/02-太阳系动画/02-封装'
 
 const AppBox = styled.div`
   width: 100%;
