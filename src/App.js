@@ -21,7 +21,10 @@ import AppBg from '@/assets/images/grid.png'
 // import Demo from "./Canvas/02-样式和颜色/01-填充颜色";
 // import Demo from "./Canvas/02-样式和颜色/02-描边颜色";
 // import Demo from "./Canvas/02-样式和颜色/03-透明度";
-import Demo from "./Canvas/02-样式和颜色/04-线段样式";
+// import Demo from "./Canvas/02-样式和颜色/04-线段样式";
+
+// import Demo from './Canvas/03-绘制字体和图片/01-绘制字体'
+import Demo from './Canvas/03-绘制字体和图片/02-绘制图片'
 
 const AppBox = styled.div`
   width: 100%;
