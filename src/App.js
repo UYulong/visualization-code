@@ -43,7 +43,10 @@ import AppBg from '@/assets/images/grid.png'
 // import Demo from './SVG/02-绘制基本图形/06-绘制多边形'
 // import Demo from './SVG/02-绘制基本图形/07-绘制路径'
 // import Demo from './SVG/02-绘制基本图形/08-绘制图片'
-import Demo from './SVG/02-绘制基本图形/09-绘制文字'
+// import Demo from './SVG/02-绘制基本图形/09-绘制文字'
+// import Demo from './SVG/03-组合和复用/01-组合'
+// import Demo from './SVG/03-组合和复用/02-复用-defs'
+import Demo from './SVG/03-组合和复用/03-复用-symbol'
 
 const AppBox = styled.div`
   width: 100%;
