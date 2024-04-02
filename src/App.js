@@ -34,8 +34,16 @@ import AppBg from '@/assets/images/grid.png'
 
 // SVG
 // import Demo from './SVG/01-viewport与viewbox/01-viewpor与viewbox有相同宽高比'
-import Demo from './SVG/01-viewport与viewbox/02-viewpor与viewbox有不同宽高比'
-
+// import Demo from './SVG/01-viewport与viewbox/02-viewpor与viewbox有不同宽高比'
+// import Demo from './SVG/02-绘制基本图形/01-绘制矩形'
+// import Demo from './SVG/02-绘制基本图形/02-绘制圆形'
+// import Demo from './SVG/02-绘制基本图形/03-绘制椭圆'
+// import Demo from './SVG/02-绘制基本图形/04-绘制线条'
+// import Demo from './SVG/02-绘制基本图形/05-绘制折线'
+// import Demo from './SVG/02-绘制基本图形/06-绘制多边形'
+// import Demo from './SVG/02-绘制基本图形/07-绘制路径'
+// import Demo from './SVG/02-绘制基本图形/08-绘制图片'
+import Demo from './SVG/02-绘制基本图形/09-绘制文字'
 
 const AppBox = styled.div`
   width: 100%;
