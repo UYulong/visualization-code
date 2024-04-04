@@ -48,7 +48,11 @@ import AppBg from '@/assets/images/grid.png'
 // import Demo from './SVG/03-组合和复用/02-复用-defs'
 // import Demo from './SVG/03-组合和复用/03-复用-symbol'
 // import Demo from './SVG/04-填充和描边/01-填充'
-import Demo from './SVG/04-填充和描边/02-描边'
+// import Demo from './SVG/04-填充和描边/02-描边'
+// import Demo from './SVG/05-渐变和滤镜效果/01-渐变'
+// import Demo from './SVG/05-渐变和滤镜效果/02-CSS毛玻璃效果-background-filter'
+// import Demo from './SVG/05-渐变和滤镜效果/03-CSS毛玻璃效果-filter'
+import Demo from './SVG/05-渐变和滤镜效果/04-SVG模糊效果'
 
 const AppBox = styled.div`
   width: 100%;
