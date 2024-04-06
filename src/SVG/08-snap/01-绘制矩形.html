@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Snap</title>
+</head>
+
+<body>
+
+
+  <script src="./lib/snap.svg.js"></script>
+
+  <script>
+    // 1. 创建一个 300 * 300 的svg画布
+    const svg = Snap(300, 300)
+
+    // 2. 拿到纸
+    const paper = svg.paper
+
+    // 3. 绘制圆形
+    const circle = paper.circle(50, 50, 50)
+    circle.attr({
+      fill: 'red'
+    })
+
+    // 4. 添加元素
+    document.body.appendChild(svg.node)
+  </script>
+</body>
+
+
+
+</html>
