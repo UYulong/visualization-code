@@ -62,9 +62,13 @@ import AppBg from '@/assets/images/grid.png'
 // import Demo from './SVG/07-SMIL动画/04-animateTransform-rotate'
 // import Demo from './SVG/07-SMIL动画/05-animateTransform-scale'
 // import Demo from './SVG/07-SMIL动画/06-animateMotion'
-import Demo from './SVG/07-SMIL动画/07-animateMotion-优化.jsx'
+// import Demo from './SVG/07-SMIL动画/07-animateMotion-优化.jsx'
 
 // import Demo from './SVG/examples/01-雪糕'
+// import Demo from './SVG/examples/02-SMIL-纸飞机'
+// import Demo from './SVG/examples/03-SMIL-进度条'
+// import Demo from './SVG/examples/04-定位动画'
+import Demo from './SVG/examples/05-水波纹'
 
 const AppBox = styled.div`
   width: 100%;
