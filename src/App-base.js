@@ -1,3 +1,4 @@
+/* 基础部分：CSS、Canvas、SVG、Echarts */
 import styled from "styled-components";
 import AppBg from '@/assets/images/grid.png'
 
