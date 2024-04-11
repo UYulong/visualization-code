@@ -5,7 +5,7 @@ import ReactDOM from 'react-dom/client';
 // import App from './App-base';
 
 // 大屏
-import './screen/lib/lib_flexible'
+// import './screen/lib/lib_flexible'
 import App from './App-screen';
 
 import './index.css';
